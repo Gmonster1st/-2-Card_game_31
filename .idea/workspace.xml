@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22c253a9-ac71-4ec1-8601-ac72437b6242" name="Default Changelist" comment="Create Repository">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Gmonster1st.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Εργασία 2 Card_game_31.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/High_scores.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlayingCards.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thirtyone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thirtyone_gui_template.py" afterDir="false" />
-    </list>
+    <list default="true" id="22c253a9-ac71-4ec1-8601-ac72437b6242" name="Default Changelist" comment="Create Repository" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +95,10 @@
             <path>
               <item name="Εργασία 2 Card_game_31" type="b2602c69:ProjectViewProjectNode" />
               <item name="Εργασία 2 Card_game_31" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Εργασία 2 Card_game_31" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -272,10 +264,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="886" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48910892" visible="true" weight="0.1913815" />
-      <window_info id="Structure" order="1" sideWeight="0.5108911" side_tool="true" visible="true" weight="0.1913815" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49003986" visible="true" weight="0.1913815" />
+      <window_info id="Structure" order="1" sideWeight="0.5099602" side_tool="true" visible="true" weight="0.1913815" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32934928" />
@@ -283,9 +276,9 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997344" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="6" visible="true" weight="0.32934928" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.32934928" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32934928" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32934928" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32934928" />
       <window_info anchor="bottom" x="739" y="315" width="660" height="247" id="TODO" order="10" weight="0.3001328" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
